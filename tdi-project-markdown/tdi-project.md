@@ -1,9 +1,11 @@
 
-# Analysis of Chicago's Uber trip data
+# Analysis of Chicago's Ride-Hailing trip data
 
 ## Introduction
 
 The city of Chicago provides data on individual Uber trips, registered vehicles and Uber drivers since 2018.
+
+The data can be found [here]. (https://data.cityofchicago.org/Transportation/Transportation-Network-Providers-Trips/m6dm-c72p)
 
 ### Import neccessary packages
 
