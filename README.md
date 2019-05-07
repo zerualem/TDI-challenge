@@ -414,7 +414,7 @@ histplot(trip_sub_df['Trip Seconds'])
 ```
 
 
-![png](output_21_0.png)
+![png](tdi-project-markdown/output_21_0.png)
 
 
 **Histogram for trip length**
